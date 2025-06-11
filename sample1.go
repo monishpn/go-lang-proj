@@ -8,5 +8,6 @@ func main() {
 	var c = a + b
 
 	fmt.Println("a=", a, "b=", b, "c=", c)
-	fmt.Println("c=", c) //kkkkkk
+	fmt.Println("c=", c)     //kkkkkk
+	fmt.Println("a+b=", a+b) //jjjjjj
 }
